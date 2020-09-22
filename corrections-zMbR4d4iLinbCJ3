@@ -1,0 +1,16 @@
+{
+    "corrections":
+    [
+       {"correction": "I'm working hard to remodel the new place.", "mistakes": ["I'm working hard to remodeling the new place."], "explanation": "Verbs in infinitives needs to their regular form."},
+       {"correction": "This kind of lecture causes us to think.", "mistakes": ["This kind of lecture put us to think."]},
+       {"correction": "We are keeping on track.", "mistakes": ["We are keeping the same track."]},
+       {"correction": "Let me give an example.", "mistakes": ["Let me put an example."]},
+       {"correction": "We had a heated meeting.", "mistakes": ["We had a hot meeting."]},
+       {"correction": "I have been listening to this podcast.", "mistakes": ["I have been listen this podcast."]},
+       {"correction": "I made a mistake.", "mistakes": ["I did a mistake."]},
+       {"correction": "He is the plant manager at the plant Vanessa works.", "mistakes": ["He is the plant manager at the plant where Vanessa works."]},
+       {"correction": "I can't hear you.", "mistakes": ["I don't heard you."], "explanation": "Following an auxiliary verb, such as \"do\" or "\can\", the content verb needs to be in its regular form."},
+       {"correction": "It is more efficient to do it this way.", "mistakes": ["It is more efficiency to do it this way."], "explanation": "The noun form of the word is needed."},
+       {"correction": "I assembled furniture over the weekend.", "mistakes": ["I assembly furniture over the weekend."], "explanation": "The verb form of the word is needed."}  
+    ]
+}
