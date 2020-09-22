@@ -8,7 +8,7 @@
        {"correction": "We had a heated meeting.", "mistakes": ["We had a hot meeting."]},
        {"correction": "I have been listening to this podcast.", "mistakes": ["I have been listen this podcast."]},
        {"correction": "I made a mistake.", "mistakes": ["I did a mistake."]},
-       {"correction": "He is the plant manager at the plant Vanessa works.", "mistakes": ["He is the plant manager at the plant where Vanessa works."]},
+       {"correction": "He is the plant manager at the plant where Vanessa works.", "mistakes": ["He is the plant manager at the plant Vanessa works."]},
        {"correction": "I can't hear you.", "mistakes": ["I don't heard you."], "explanation": "Following an auxiliary verb, such as \"do\" or \"can\", the content verb needs to be in its regular form."},
        {"correction": "It is more efficient to do it this way.", "mistakes": ["It is more efficiency to do it this way."], "explanation": "The noun form of the word is needed."},
        {"correction": "I assembled furniture over the weekend.", "mistakes": ["I assembly furniture over the weekend."], "explanation": "The verb form of the word is needed."}  
